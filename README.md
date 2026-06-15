@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Brayan Miyamura 👋
 
-<!--
-**Bramura/Bramura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Praia Grande** (conclusão em 2027) e estou em busca da minha primeira oportunidade no mercado de TI, com foco em Desenvolvimento Backend, Análise de Sistemas ou Suporte Técnico.
 
-Here are some ideas to get you started:
+Venho de um histórico profissional sólido em rotinas administrativas, gestão de dados e atendimento ao cliente, o que me trouxe forte senso de organização, foco em soluções e facilidade para trabalhar em equipe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, Python, JavaScript, C, HTML e CSS
+- **Frameworks & Ecossistema:** Spring Boot, Git
+- **Sistemas Operacionais:** Windows e Linux
+- **Metodologias:** Scrum Fundamentals Certified (SFC)
+
+### 🚀 Meus Projetos em Destaque
+- ☕ **[Product API](https://github.com/Bramura/productapi):** API REST de produtos desenvolvida com Java e Spring Boot, com endpoints estruturados para criação, listagem e busca.
+- 🐍 **[Biblioteca Python](https://github.com/Bramura/biblioteca-python):** Sistema de cadastro e gerenciamento de livros com operações completas de CRUD via terminal.
+
+---
+
+📬 **Vamos nos conectar?**
+- **LinkedIn:** [linkedin.com/in/brayan-miyamura/](https://www.linkedin.com/in/brayan-miyamura/)
+- **E-mail:** miyamurabrayan@gmail.com
+- **Localização:** Praia Grande/SP (Buscando oportunidades Presenciais, Híbridas ou Remotas)
