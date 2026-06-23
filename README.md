@@ -12,6 +12,7 @@ Venho de um histórico profissional sólido em rotinas administrativas, gestão 
 
 ### 🚀 Meus Projetos em Destaque
 - ☕ **[Product API](https://github.com/Bramura/productapi):** API REST de produtos desenvolvida com Java e Spring Boot, com endpoints estruturados para criação, listagem e busca.
+- ☕ **[Finance Control API](https://github.com/Bramura/finance-control-api):** API REST para gerenciamento de receitas e despesas, com CRUD completo, validações, filtros, cálculo de saldo e resumo financeiro utilizando Spring Boot.
 - 🐍 **[Biblioteca Python](https://github.com/Bramura/biblioteca-python):** Sistema de cadastro e gerenciamento de livros com operações completas de CRUD via terminal.
 
 ---
